@@ -21,7 +21,7 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="dailyforex-blog-reviews-forex-initiate.html"}
+if(x=="1"){xxx="11/dailyforex-blog-reviews-forex-initiate.html"}
 if(x=="2"){xxx="11/direct-fx-review-forex-brokers-reviews.html"}
 if(x=="3"){xxx="11/forex-social-platforms.html"}
 if(x=="4"){xxx="11/how-to-build-winning-trading-plan.html"}
